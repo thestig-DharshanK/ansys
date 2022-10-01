@@ -1,0 +1,14 @@
+/COM,ANSYS RELEASE 2022 R1           BUILD 22.1      UP20211129       21:48:11
+
+ *** WARNING ***                         CP =       0.734   TIME= 21:48:12
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       0.969   TIME= 21:48:12
+ Material number 23 (used by element 41546) should normally have at      
+ least one MP or one TB type command associated with it.  Output of      
+ energy by material may not be available.                                
+
+ *** WARNING ***                         CP =       1.672   TIME= 21:48:12
+ Maximum contact stiffness 2.241776688E+16 is too big which can cause an 
+ accuracy problem, you may scale the force units in the model.           
